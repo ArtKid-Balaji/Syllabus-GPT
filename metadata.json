@@ -1,0 +1,8 @@
+{
+  "name": "SyllabusGPT",
+  "description": "An AI-powered study platform that allows students to upload syllabus materials and interact with a Google Gemini assistant restricted strictly to the provided content.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
